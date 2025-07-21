@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3B2F08B42E2DFBC00096C2E7 /* Swift.gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3B2F08B32E2DFBC00096C2E7 /* Swift.gitignore */; };
-		3B2F08B52E2DFBC00096C2E7 /* Swift.gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3B2F08B32E2DFBC00096C2E7 /* Swift.gitignore */; };
-		3B2F08B62E2DFBC00096C2E7 /* Swift.gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3B2F08B32E2DFBC00096C2E7 /* Swift.gitignore */; };
+		3B2F08B42E2DFBC00096C2E7 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3B2F08B32E2DFBC00096C2E7 /* .gitignore */; };
+		3B2F08B52E2DFBC00096C2E7 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3B2F08B32E2DFBC00096C2E7 /* .gitignore */; };
+		3B2F08B62E2DFBC00096C2E7 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3B2F08B32E2DFBC00096C2E7 /* .gitignore */; };
 		3BBD49602E2B092B000F9D7F /* Config.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 3BBD495F2E2B092B000F9D7F /* Config.xcconfig */; };
 /* End PBXBuildFile section */
 
@@ -31,29 +31,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3B2F08B32E2DFBC00096C2E7 /* Swift.gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = Swift.gitignore; sourceTree = "<group>"; };
+		3B2F08B32E2DFBC00096C2E7 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		3BBD49172E2AF708000F9D7F /* TransparentAccounts_useCase.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TransparentAccounts_useCase.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BBD49292E2AF70B000F9D7F /* TransparentAccounts_useCaseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TransparentAccounts_useCaseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BBD49332E2AF70B000F9D7F /* TransparentAccounts_useCaseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TransparentAccounts_useCaseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BBD495F2E2B092B000F9D7F /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3B2F08B22E2DF11C0096C2E7 /* Exceptions for "TransparentAccounts_useCase" folder in "TransparentAccounts_useCase" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				"TransparentAccounts-useCase-Info.plist",
-			);
-			target = 3BBD49162E2AF708000F9D7F /* TransparentAccounts_useCase */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		3BBD49192E2AF708000F9D7F /* TransparentAccounts_useCase */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				3B2F08B22E2DF11C0096C2E7 /* Exceptions for "TransparentAccounts_useCase" folder in "TransparentAccounts_useCase" target */,
-			);
 			path = TransparentAccounts_useCase;
 			sourceTree = "<group>";
 		};
@@ -102,7 +89,7 @@
 				3BBD492C2E2AF70B000F9D7F /* TransparentAccounts_useCaseTests */,
 				3BBD49362E2AF70B000F9D7F /* TransparentAccounts_useCaseUITests */,
 				3BBD49182E2AF708000F9D7F /* Products */,
-				3B2F08B32E2DFBC00096C2E7 /* Swift.gitignore */,
+				3B2F08B32E2DFBC00096C2E7 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -236,7 +223,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3B2F08B42E2DFBC00096C2E7 /* Swift.gitignore in Resources */,
+				3B2F08B42E2DFBC00096C2E7 /* .gitignore in Resources */,
 				3BBD49602E2B092B000F9D7F /* Config.xcconfig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -245,7 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3B2F08B62E2DFBC00096C2E7 /* Swift.gitignore in Resources */,
+				3B2F08B62E2DFBC00096C2E7 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,7 +240,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3B2F08B52E2DFBC00096C2E7 /* Swift.gitignore in Resources */,
+				3B2F08B52E2DFBC00096C2E7 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
